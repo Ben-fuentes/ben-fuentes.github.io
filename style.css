@@ -1,0 +1,14 @@
+body {
+  background-color: #1c1c1c;
+  color: white;
+}
+
+.card img {
+  height: 300px;
+  object-fit: cover;
+}
+.container{
+  background-color: #1c1c1c;
+  color: white;
+}
+
